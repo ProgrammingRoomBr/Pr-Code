@@ -26,3 +26,6 @@ Lembrando é claro que o projeto é idependente e criado por 3 jovens alunos e a
 
 ## Conclusão:
 Espero que entre conosco nesse projeto que busca uma maior democratização no conhecimento relativo a programação, utilizamos a Licença GNU GPL 3 portanto sinta-se a vontade para utilizar nosso código e é claro trazer melhorias para nos ajudar.
+
+## OBS:
+O código não estava bem documentado portanto estamos melhorando para poder publicar aqui, lembrando que o código está no Mínimo Produto Viável.
